@@ -1,16 +1,13 @@
-## Hi there 👋
+# Yo
+I am a random **3D artist** 🎨 out in the wild.
 
-<!--
-**PhoenixSniper/PhoenixSniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Portfolio
+[Artstation](https://www.artstation.com/manjot_singh)
 
-Here are some ideas to get you started:
+## 🔨 Tools & Softwares I Use
+- Blender
+- Maya
+- Substance Painter
+- Unreal Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.ytimg.com/vi/fwNc-sxhZVE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgALQBYoCDAgAEAEYciBSKCkwDw==&amp;rs=AOn4CLCrWOYzyAkP9mM2LZE_UiewdAt8og" width="500">
