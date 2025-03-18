@@ -10,4 +10,4 @@ I am a random **3D artist** 🎨 out in the wild.
 - Substance Painter
 - Unreal Engine
 
-<img src="https://i.ytimg.com/vi/fwNc-sxhZVE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgALQBYoCDAgAEAEYciBSKCkwDw==&amp;rs=AOn4CLCrWOYzyAkP9mM2LZE_UiewdAt8og" width="500">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FlrDAgsYq0eomhwoESZ%2Fgiphy.gif&f=1&nofb=1&ipt=06322ac2aa25669875bd3e5fed5b9dd2682b4b043219047dee3a1711e0f3d170&ipo=images" width="500">
